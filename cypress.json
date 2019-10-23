@@ -1,0 +1,7 @@
+{
+  "baseUrl": "http://localhost:8020",
+  "video": false,
+  "modifyObstructiveCode": false,
+  "viewportWidth": 1366,
+  "viewportHeight": 768
+}
